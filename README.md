@@ -1,2 +1,2 @@
-# reading_notes_bayesian_the_fun_way
-My notes of Bayesian Statistics The Fun Way
+# My reading notes of (Bayesian Statistics The Fun Way)[https://nostarch.com/learnbayes]
+My notes and bits of Python code.
